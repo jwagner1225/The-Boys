@@ -1,4 +1,5 @@
 # The-Boys
+main
 ## Installation 
 The best way to install and use the contents of this repository would be through JupyterLab. In JupyterLab clone the `The-Boys` repository using the `git clone https://github.com/jwagner1225/The-Boys.git` command. This will add a folder titled `The-Boys` in your JupyterLab directory with the contents of the repository. To run the code, select and open `randomCode.py`. This file contains the repository’s python code in a JupyterLab code cell. The code can be run from this cell by pressing `CNTRL + ENTER` on windows or `CMND + ENTER` on Mac. 
 ## Usage 
@@ -24,3 +25,6 @@ The contents of this repository are unlicensed and can all be freely accessed th
 Jack Wagner (owner)\
 Paolo Hidalgo (contributor)\
 Nij Patel (contributor)
+Me, Paolo, and Nij messing around
+This file is between Nij Patel, Jack Wagner, and Paolo Hidalgo and we have code that takes your name and age and outputs it.
+main
