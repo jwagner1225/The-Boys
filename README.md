@@ -1,2 +1,3 @@
 # The-Boys
-Me, Paolo, and Nij messing around
+Jack Wagner (owner)
+Paolo Hidalgo (contributor)
