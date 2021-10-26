@@ -5,4 +5,4 @@ Code of Conduct for: The Boys
               will result in being blocked from the project.
         2. This project is a project for everyone, not a select few. Work together, make friends, enjoy it, but do not take the 
            lenience for timidness. We will monitor any abuse to fellow contributors, and it will not be taken lightly.
-        3. Have fun!
+        3. Have fun! bbb
